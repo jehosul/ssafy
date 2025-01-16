@@ -44,4 +44,4 @@ print('Hello')
 
 만약에 이미지가 포함된 markdown을 제출 할때는 이미지도 같이 제출해야 합니다~~그래야 강사님이 보인다네용!
 
-![rmsid.png](rmsid.png)
+![rmsid.png](rmsid.png) 
